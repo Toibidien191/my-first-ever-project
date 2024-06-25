@@ -27,5 +27,5 @@ elif sigma==4:
     os.system('pause')
 else:
     print('wtf????????')
-    break
+    os.system('pause')
 #đm mất 1 ngày chỉ để lm cái này
