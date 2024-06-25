@@ -25,4 +25,7 @@ elif sigma==3:
 elif sigma==4:
     print('đáp án là: ',num1/num2)
     os.system('pause')
+else:
+    print('wtf????????')
+    break
 #đm mất 1 ngày chỉ để lm cái này
